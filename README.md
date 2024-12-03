@@ -27,7 +27,8 @@ This project was developed as part of my Data Analyst Internship at NullClass. I
 
 ## Final Deliverables  
 - **Interactive Dashboard:** [Visit the Dashboard](https://jobpostanalysisdashboard.netlify.app/)  
-- **GitHub Repository:** Contains the data preprocessing scripts, Tableau workbook, and hosting details.  
+- **GitHub Repository:** Contains the data preprocessing scripts, Tableau workbook, and hosting details.
+- **Kaggle link:** Refer this link for the dataset [Kaggle](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) 
 
 ## Acknowledgments  
 I extend my gratitude to NullClass for the opportunity to work on this project and gain hands-on experience in data analytics and visualization.  
