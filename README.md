@@ -1,7 +1,7 @@
 # Job Post Analysis Dashboard  
 
 ## Overview  
-This project was developed as part of my Data Analyst Internship at NullClass. It focuses on building an **Interactive Job Post Analysis Dashboard** using Tableau. The dashboard visualizes job post data from various websites with dynamic filters and custom criteria, providing actionable insights into job market trends. The final dashboard is hosted on Netlify for easy accessibility.  
+This project focuses on building an **Interactive Job Post Analysis Dashboard** using Tableau. The dashboard visualizes job post data from various websites with dynamic filters and custom criteria, providing actionable insights into job market trends. The final dashboard is hosted on Netlify for easy accessibility.  
 
 ## Features  
 - Interactive visualizations using Tableau.  
