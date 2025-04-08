@@ -30,8 +30,6 @@ This project focuses on building an **Interactive Job Post Analysis Dashboard** 
 - **GitHub Repository:** Contains the data preprocessing scripts, Tableau workbook, and hosting details.
 - **Kaggle link:** Refer this link for the dataset [Kaggle](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) 
 
-## Acknowledgments  
-I extend my gratitude to NullClass for the opportunity to work on this project and gain hands-on experience in data analytics and visualization.  
 
 ---
 
